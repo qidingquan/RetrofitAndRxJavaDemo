@@ -1,4 +1,4 @@
-package com.example.qdq.myapplication;
+package com.example.qdq.myapplication.model;
 
 import java.util.List;
 

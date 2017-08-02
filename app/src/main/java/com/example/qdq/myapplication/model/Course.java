@@ -1,4 +1,4 @@
-package com.example.qdq.myapplication;
+package com.example.qdq.myapplication.model;
 
 /**
  * Created by Administrator on 2017/7/31.
